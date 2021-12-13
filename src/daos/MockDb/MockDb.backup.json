@@ -1,19 +1,71 @@
 {
-  "users": [
+  "wishlists": [
     {
-      "name": "Sean Maxwell",
-      "email": "sean.maxwell@gmail.com",
-      "id": 159123164363
+      "created_at": "2021-12-12T21:14:28.802Z",
+      "updated_at": "2021-12-12T21:14:28.802Z",
+      "name": "Jonas' verlanglijstje",
+      "uniqueId": "P1gLXrh4",
+      "products": [
+        {
+          "created_at": "2021-12-12T21:14:28.802Z",
+          "updated_at": "2021-12-12T21:14:28.802Z",
+          "name": "LEGO Porsche 10295 Porsche 911",
+          "description": "Stijl zonder compromis. Eindeloos rijplezier. De Porsche 911 is een legendarische auto die zijn gelijke niet kent. Nu kun jij je eigen modelversie van deze beroemde wagen bouwen met deze Porsche 911 (10295) van LEGO.",
+          "currency": "EUR",
+          "price": 107.0,
+          "url": "https://www.dreamland.be/e/nl/dl/lego-porsche-10295-porsche-911-111800",
+          "picture": "https://static.dreamland.be/wcsstore/ColruytB2CCAS/JPG/JPG/646x1000/std.lang.all/84/86/asset-2478486.jpg",
+          "purchased": false
+        },
+        {
+          "created_at": "2021-12-12T21:14:28.802Z",
+          "updated_at": "2021-12-12T21:14:28.802Z",
+          "name": "LEGO Creator Expert 10271 Fiat 500",
+          "description": "Bouw een iconisch ontwerp uit de Italiaanse auto-industrie na met deze LEGO Creator Expert Fiat 500 (10271).",
+          "currency": "EUR",
+          "price": 64.95,
+          "url": "https://www.dreamland.be/e/nl/dl/lego-creator-expert-10271-fiat-500-144022",
+          "picture": "https://static.dreamland.be/wcsstore/ColruytB2CCAS/JPG/JPG/646x1000/std.lang.all/86/23/asset-2128623.jpg",
+          "purchased": false
+        },
+        {
+          "created_at": "2021-12-12T21:14:28.802Z",
+          "updated_at": "2021-12-12T21:14:28.802Z",
+          "name": "Raspberry Pi® 4 B 8 GB 4 x 1.5 GHz Raspberry Pi® | Conrad.com",
+          "description": "<p>The Raspberry Pi® 4B is the powerful development of the extremely successful credit card-sized computer system. This 3rd-generation Raspberry comes with a high-performance ARM Cortex A72 4x 1.5 GHz quad core processor. With this upgrade, the Raspberry Pi® 4B delivers significantly more performance in certain applications. WiFi and Bluetooth® Low Energy and Gigabit LAN onboard are available for quick and easy networking.<br><br><b>The changes at a glance:</b><br>The Raspberry Pi® 4B has been the latest addition to the Raspberry Pi® family since June 2019. The following improvements/changes have been made to the 4B:<br>1) The CPU has remained the same but has been increased in performance.<br>2) Power is now supplied via USB-C™ instead of micro-USB<br>3) Dual display output via two micro HDMI ports enables 4K video display on two monitors simultaneously<br>4) The 4B now supports Bluetooth® 5.0.<br>5) Upgrade to USB 3.0: Two USB 3.0 ports with 5 GBit/s transfer rate are now available - no bottleneck through USB connection<br>6) now with Gigabit LAN interface (10x faster than Raspberry 3B)<br>7) is now manufactured in 28NM. So far, it was 40NM<br><br><b>Completely backward compatible with your previous projects</b><br>The Raspberry Pi® 4B remains the same in its basic shape and size, so you can easily add your new Raspberry Pi® 4B to your old projects for upgrade. And as always, the entire software was kept backwards compatible. So everything you create on a Raspberry Pi® 4 is compatible with older models.<br><br><b>Your new desktop PC</b><br>The speed and performance of the new Raspberry Pi® 4B has been significantly improved over previous models. Whether you're editing documents, browsing the web with a number of open tabs, juggling spreadsheets, or creating presentations. You will find that the work is smooth and efficient - on a smaller, more energy-efficient and more cost-effective level.<br><br><b>Extended working area - additional second screen can be connected </b><br>Thanks to the two micro-HDMI connections, up to two additional monitors, projectors or TV devices can be operated on your Raspberry Pi® 4B - and this also in 4K!<br><br><b>Quiet &amp; energy efficient</b><br>The fanless, energy-efficient Raspberry Pi® runs silently and consumes significantly less power than other desktop PCs.<br><br><b>Includes Gigabit LAN for high-speed network connections </b><br>Gigabit Ethernet enables data transfer rates of up to 1,000 MBit/s and is thus 10x faster than a Raspberry Pi® 3B.<br><br><b>SuperSpeed USB / USB 3.0</b><br>Speed up your data now and connect USB hub, card reader or other peripheral devices via USB 3.0 with your Raspberry Pi®. Thanks to the two USB 3.0 ports, you can transfer large amounts of data within a few seconds at speeds of up to 5 GB/s. Compared to USB 2.0, this offers ten times the data transfer rate.<br><br><b>2-way USB-C™ power connector</b><br>Sounds somehow familiar? Fiddling around with USB plugs, turning them upside down and downside up until they eventually fit the receptacle. The USB-C™ connection can be used on both sides, so the power cable cannot be inserted the wrong way round.<br><br>This text is machine translated.</p>",
+          "currency": "EUR",
+          "price": 98.99,
+          "url": "https://www.conrad.com/p/raspberry-pi-4-b-8-gb-4-x-15-ghz-raspberry-pi-2250399",
+          "picture": "https://asset.conrad.com/media10/isa/160267/c1/-/en/002138864PI00/image.jpg",
+          "purchased": false
+        }
+      ]
     },
     {
-      "name": "Gordan Freeman",
-      "email": "gordan.freeman@halflife.com",
-      "id": 906524522143
+      "created_at": "2021-12-12T21:14:28.802Z",
+      "updated_at": "2021-12-12T21:14:28.802Z",
+      "name": "Ilse's verlanglijstje",
+      "uniqueId": "JQOthBuc",
+      "products": [
+        {
+          "created_at": "2021-12-12T21:14:28.802Z",
+          "updated_at": "2021-12-12T21:14:28.802Z",
+          "name": "LEGO Porsche 10295 Porsche 911",
+          "description": "Stijl zonder compromis. Eindeloos rijplezier. De Porsche 911 is een legendarische auto die zijn gelijke niet kent. Nu kun jij je eigen modelversie van deze beroemde wagen bouwen met deze Porsche 911 (10295) van LEGO.",
+          "currency": "EUR",
+          "price": 107.0,
+          "url": "https://www.dreamland.be/e/nl/dl/lego-porsche-10295-porsche-911-111800",
+          "picture": "https://static.dreamland.be/wcsstore/ColruytB2CCAS/JPG/JPG/646x1000/std.lang.all/84/86/asset-2478486.jpg",
+          "purchased": false
+        }
+      ]
     },
     {
-      "name": "John Smith",
-      "email": "jsmith@yahoo.com",
-      "id": 357437875835
+      "created_at": "2021-12-12T21:14:28.802Z",
+      "updated_at": "2021-12-12T21:14:28.802Z",
+      "name": "Sheldon's verlanglijstje",
+      "uniqueId": "Kb61k8o8",
+      "products": []
     }
   ]
 }
